@@ -1,0 +1,11 @@
+[Protocol]
+exec=acidcoin-qt '%u'
+protocol=acidcoin
+input=none
+output=none
+helper=true
+listing=
+reading=false
+writing=false
+makedir=false
+deleting=false

@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=acidcoin
+Comment=acidcoin P2P Cryptocurrency
+Comment[fr]=acidcoin, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=acidcoin, eşten eşe kriptografik sanal para birimi
+Exec=/usr/bin/acidcoin-qt %u
+Terminal=false
+Type=Application
+Icon=/usr/share/pixmaps/acidcoin128.png
+MimeType=x-scheme-handler/acidcoin;
+Categories=Office;

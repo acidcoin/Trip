@@ -1,0 +1,3 @@
+acidcoin-qt usr/bin
+debian/acidcoin-qt.desktop usr/share/applications
+debian/acidcoin-qt.protocol usr/share/kde4/services
